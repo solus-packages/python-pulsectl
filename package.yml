@@ -1,8 +1,8 @@
 name       : python-pulsectl
-version    : 18.12.5
-release    : 2
+version    : 20.5.1
+release    : 3
 source     :
-    - https://files.pythonhosted.org/packages/1a/a9/cdd1a19889f78ddd45775b9830045df2b4eb25f63911a2ddc3aaf8ec614f/pulsectl-18.12.5.tar.gz : 41db4dd19e7cd28e2609baf2b551f34991f1890024be119b6075a286abfb65d3
+    - https://pypi.io/packages/source/p/pulsectl/pulsectl-20.5.1.tar.gz : 39b0a0e7974a7d6468d826a838822f78b00ac9c3803f0d7bfa9b1cad08ee22db
 license    : MIT
 component  : programming.python
 summary    : High-level interface and ctypes-based bindings for PulseAudio
