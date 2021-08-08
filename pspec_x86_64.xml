@@ -19,30 +19,30 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl-20.5.1-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl-20.5.1-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl-20.5.1-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl-20.5.1-py3.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl-20.5.1-py3.7.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/__pycache__/__init__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/__pycache__/_pulsectl.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/__pycache__/lookup.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/__pycache__/pulsectl.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/_pulsectl.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/lookup.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/pulsectl.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/tests/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/tests/__pycache__/__init__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/tests/__pycache__/all.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/tests/__pycache__/dummy_instance.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/tests/all.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pulsectl/tests/dummy_instance.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl-20.5.1-py3.9.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl-20.5.1-py3.9.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl-20.5.1-py3.9.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl-20.5.1-py3.9.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl-20.5.1-py3.9.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/__pycache__/__init__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/__pycache__/_pulsectl.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/__pycache__/lookup.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/__pycache__/pulsectl.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/_pulsectl.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/lookup.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/pulsectl.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/tests/__pycache__/__init__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/tests/__pycache__/all.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/tests/__pycache__/dummy_instance.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/tests/all.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pulsectl/tests/dummy_instance.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2021-02-24</Date>
+        <Update release="4">
+            <Date>2021-07-28</Date>
             <Version>20.5.1</Version>
             <Comment>Packaging update</Comment>
             <Name>Joey Riches</Name>

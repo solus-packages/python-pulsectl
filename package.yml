@@ -1,6 +1,6 @@
 name       : python-pulsectl
 version    : 20.5.1
-release    : 3
+release    : 4
 source     :
     - https://pypi.io/packages/source/p/pulsectl/pulsectl-20.5.1.tar.gz : 39b0a0e7974a7d6468d826a838822f78b00ac9c3803f0d7bfa9b1cad08ee22db
 license    : MIT
